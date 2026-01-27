@@ -16,4 +16,4 @@ A simple JavaScript counter application.
 Open `index.html` in your browser.
 
 ## Author
-Abey Akilesh
+Abey Akilesh 
