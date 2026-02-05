@@ -1,4 +1,4 @@
-# API-Driven Concept Learning System (Find-S)
+# API-Driven Concept Learning System (Find-S Algorithm)
 
 This repository contains a **dataset-driven, explainable concept learning system**
 implemented using the **Find-S algorithm** (Machine Learning – Unit 1).
