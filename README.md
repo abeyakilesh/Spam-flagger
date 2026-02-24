@@ -44,7 +44,7 @@ No probabilistic models or external ML libraries are used.
   - Keyword score
   - Capital usage ratio
   - Attachment type
-- Labels:
+- Labels :
   - `Spam`
   - `Legitimate`
 
