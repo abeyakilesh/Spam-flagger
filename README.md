@@ -1,4 +1,4 @@
-Rule-Based Learning Engine
+## Rule-Based Learning Engine
 
 This repository contains a **dataset-driven, explainable concept learning system**
 implemented using the **Find-S algorithm** (Machine Learning – Unit 1).
